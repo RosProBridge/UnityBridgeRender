@@ -1,0 +1,21 @@
+{
+    "name": "com.ars.probridge.vis",
+    "version": "1.2.1",
+    "displayName": "ProBridgeVisualization",
+    "description": "ProBridgeVisualization scripts required for visualiz ROS messages into simulator",
+    "unity": "2018.4",
+    "type": "library",
+    "dependencies": {
+        "com.ars.probridge": "1.2.1"
+    },
+    "keywords": [
+        "ROS",
+        "Unity",
+        "ProBridge"
+    ],
+    "author": {
+        "name": "ARS",
+        "email": "proninaa@a-r-s.dev",
+        "url": "https://g.a-r-s.dev/Unity/ProBridgeVis.git"
+    }
+}
